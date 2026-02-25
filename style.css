@@ -1,0 +1,4 @@
+body{background-color: black;display: flex;flex-direction: column;align-items: center;justify-content: center;height: 100vh;}
+.container{background-color: #ff8c00;display:flex;flex-direction: column;padding: 50px;}
+#result{height: 60px;width: 100%;background-color: #1a1a1a;color:#d4af37;font-weight: 600;margin-top: 20px;display: flex;justify-content: center;align-items: center;}
+
